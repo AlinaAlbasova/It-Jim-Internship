@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # step 1 - find blobs using code from previous homework.
 # Here I will use example from homework review
 # since my solution wasn't ideal.
-from part1.shapeDetector import ShapeDetector
+from HW_2.part1.shapeDetector import ShapeDetector
 
 
 def find_blobs(frm):

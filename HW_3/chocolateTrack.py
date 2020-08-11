@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-import imgUtils as iu
 
 def chocoTrack():
     img = cv2.imread("marker.jpg", cv2.IMREAD_GRAYSCALE)
